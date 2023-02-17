@@ -60,6 +60,10 @@ section {
     
 }
 
+.control {
+    margin-top: 20px;
+    text-align: center;
+}
 a,button {
     padding: 10px 50px;
     border-radius: 4px;
