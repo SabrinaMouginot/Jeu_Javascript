@@ -75,6 +75,19 @@ section {
     
 }
 
+
+/*animation obstacles*/
+
+@keyframes anime-obstacles {
+    0%{
+        left: 480px;
+    }
+    100% {
+        left: -40px;
+    }
+
+}
+
 .control {
     margin-top: 20px;
     text-align: center;
